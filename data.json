@@ -1,0 +1,841 @@
+{
+    "hi": [ 
+        "Hi, ask me something about India",
+        "Hi, If you have any questions related to Indian geography, feel free to ask.",
+        "Hi there, ask me about India"
+    ],
+    
+    "hello": [
+        "Hello, ask me something about India", 
+        "Hello, If you have any questions related to Indian geography, feel free to ask.",
+        "Hello there, ask me about India"
+    ],
+
+    "what are the neighbouring countries of India?": [
+        "Afghanistan, Bangladesh, Bhutan, China, Maldives, Myanmar, Nepal, Pakistan, Sri Lanka."
+    ],
+
+    "what are the neighbouring countries of India": [
+        "Afghanistan, Bangladesh, Bhutan, China, Maldives, Myanmar, Nepal, Pakistan, Sri Lanka."
+    ],
+
+    "neighbouring countries of India?": [
+        "Afghanistan, Bangladesh, Bhutan, China, Maldives, Myanmar, Nepal, Pakistan, Sri Lanka."
+    ],
+
+    "neighbouring countries of India": [
+        "Afghanistan, Bangladesh, Bhutan, China, Maldives, Myanmar, Nepal, Pakistan, Sri Lanka."
+    ],
+
+    "Population of India": [
+        "As of March 16, 2024, India's population is 1,437,875,543, which is 17.76% of the world's population."
+    ],
+    "Population of India?": [
+        "As of March 16, 2024, India's population is 1,437,875,543, which is 17.76% of the world's population."
+    ],
+    
+    "number of states of India":[
+        "There are 28 states in India."
+    ],
+    
+    "states of India":[
+        "There are 28 states in the country."
+    ],
+
+    "number of union territories in India":[
+        "There are 28 Union Territories in India.",
+        "There are 28 Union Territories in country."
+    ],
+
+    "number of ut in India":[
+        "There are 28 Union Territories in India.",
+        "There are 28 Union Territories in country."
+    ],
+
+    "union territories in India":[
+        "There are 28 Union Territories in India.",
+        "There are 28 Union Territories in country."
+    ],
+
+    "ut in India":[
+        "There are 28 Union Territories in India.",
+        "There are 28 Union Territories in country."
+    ],
+
+    "capital of Andhra Pradesh":[
+        "Amaravati"
+    ],
+    "capital of Andhra Pradesh?":[
+        "Amaravati"
+    ],
+    
+    "capital of Arunachal Pradesh":[
+        "Itanagar"
+    ],
+    "capital of Arunachal Pradesh?":[
+        "Itanagar"
+    ],
+
+    "capital of Assam":[
+        "Dispur"
+    ],
+    "capital of Assam?":[
+        "Dispur"
+    ],
+
+    "capital of Bihar":[
+        "Patna"
+    ],
+    "capital of Bihar?":[
+        "Patna"
+    ],
+
+    "capital of Chhattisgarh?":[
+        "Raipur"
+    ],
+    "capital of Chhattisgarh":[
+        "Raipur"
+    ],
+
+    "capital of Goa?":[
+        "Panaji"
+    ],
+    "capital of Goa":[
+        "Panaji"
+    ],
+
+    "capital of Gujarat":[
+        "Gandhinagar"
+    ],
+    "capital of Gujarat?":[
+        "Gandhinagar"
+    ],
+
+    "capital of Haryana":[
+        "Chandigarh"
+    ],
+    "capital of Haryana?":[
+        "Chandigarh"
+    ],
+
+    "capital of Himachal Pradesh":[
+        "Shimla"
+    ],
+    "capital of Himachal Pradesh?":[
+        "Shimla"
+    ],
+
+    "capital of Jharkhand":[
+        "Ranchi"
+    ],
+    "capital of Jharkhand?":[
+        "Ranchi"
+    ],
+
+    "capital of Karnataka":[
+        "Bangalore"
+    ],
+    "capital of Karnataka?":[
+        "Bangalore"
+    ],
+
+    "capital of Kerala":[
+        "Thiruvananthapuram"
+    ],
+    "capital of Kerala?":[
+        "Thiruvananthapuram"
+    ],
+
+    "capital of Madhya Pradesh":[
+        "Bhopal"
+    ],
+    "capital of Madhya Pradesh?":[
+        "Bhopal"
+    ],
+
+    "capital of Maharashtra":[
+        "Mumbai"
+    ],
+    "capital of Maharashtra?":[
+        "Mumbai"
+    ],
+
+    "capital of Manipur":[
+        "Imphal"
+    ],
+    "capital of Manipur?":[
+        "Imphal"
+    ],
+
+    "capital of Meghalaya":[
+        "Shillong"
+    ],
+    "capital of Meghalaya?":[
+        "Shillong"
+    ],
+
+    "capital of Mizoram":[
+        "Aizawl"
+    ],
+    "capital of Mizoram?":[
+        "Aizawl"
+    ],
+
+    "capital of Nagaland":[
+        "Kohima"
+    ],
+    "capital of Nagaland?":[
+        "Kohima"
+    ],
+
+    "capital of Odisha":[
+        "Bhubaneswar"
+    ],
+    "capital of Odisha?":[
+        "Bhubaneswar"
+    ],
+
+    "capital of Punjab":[
+        "Chandigarh"
+    ],
+    "capital of Punjab?":[
+        "Chandigarh"
+    ],
+
+    "capital of Rajasthan":[
+        "Jaipur"
+    ],  
+    "capital of Rajasthan?":[
+        "Jaipur"
+    ],  
+
+    "capital of Sikkim":[
+        "Gangtok"
+    ],
+    "capital of Sikkim?":[
+        "Gangtok"
+    ],
+
+    "capital of Tamil Nadu":[
+        "Chennai"
+    ],
+    "capital of Tamil Nadu?":[
+        "Chennai"
+    ],
+
+    "capital of Telangana":[
+        "Hyderabad"
+    ],
+    "capital of Telangana?":[
+        "Hyderabad"
+    ],
+
+    "capital of Tripura":[
+        "Agartala"
+    ],
+    "capital of Tripura?":[
+        "Agartala"
+    ],
+
+    "capital of Uttar Pradesh":[
+        "Lucknow"
+    ],
+    "capital of Uttar Pradesh?":[
+        "Lucknow"
+    ],
+
+    "capital of Uttarakhand":[
+        "Dehradun"
+    ],
+    "capital of Uttarakhand?":[
+        "Dehradun"
+    ],
+
+    "capital of West Bengal":[
+        "Kolkata"
+    ],
+    "capital of West Bengal?":[
+        "Kolkata"
+    ],
+
+    "capital of Andaman and Nicobar Islands":[
+        "Port Blair"
+    ],
+    "capital of Andaman and Nicobar Islands?":[
+        "Port Blair"
+    ],
+
+    "capital of Chandigarh":[
+        "Chandigarh"
+    ],
+    "capital of Chandigarh?":[
+        "Chandigarh"
+    ],
+
+    "capital of Dadra and Nagar Haveli and Daman and Diu":[
+        "Daman"
+    ],
+    "capital of Dadra and Nagar Haveli and Daman and Diu?":[
+        "Daman"
+    ],
+
+    "capital of Jammu and Kashmir":[
+        "Srinagar / Jammu"
+    ],
+    "capital of Jammu and Kashmir?":[
+        "Srinagar / Jammu"
+    ],
+
+    "capital of Ladakh":[
+        "Leh / Kargil"
+    ],
+    "capital of Ladakh?":[
+        "Leh / Kargil"
+    ],
+
+    "capital of Lakshadweep":[
+        "Kavaratti"
+    ],
+    "capital of Lakshadweep?":[
+        "Kavaratti"
+    ],
+
+    "capital of Delhi":[
+        "Delhi"
+    ],
+    "capital of Delhi?":[
+        "Delhi"
+    ],
+
+    "capital of Puducherry":[
+        "Pondicherry"
+    ],
+    "capital of Puducherry?":[
+        "Pondicherry"
+    ],
+
+
+    "what is capital of Andhra Pradesh":[
+        "Amaravati"
+    ],
+    "what is capital of Andhra Pradesh?":[
+        "Amaravati"
+    ],
+    
+    "what is capital of Arunachal Pradesh":[
+        "Itanagar"
+    ],
+    "what is capital of Arunachal Pradesh?":[
+        "Itanagar"
+    ],
+
+    "what is capital of Assam":[
+        "Dispur"
+    ],
+    "what is capital of Assam?":[
+        "Dispur"
+    ],
+
+    "what is capital of Bihar":[
+        "Patna"
+    ],
+    "what is capital of Bihar?":[
+        "Patna"
+    ],
+
+    "what is capital of Chhattisgarh?":[
+        "Raipur"
+    ],
+    "what is capital of Chhattisgarh":[
+        "Raipur"
+    ],
+
+    "what is capital of Goa?":[
+        "Panaji"
+    ],
+    "what is capital of Goa":[
+        "Panaji"
+    ],
+
+    "what is capital of Gujarat":[
+        "Gandhinagar"
+    ],
+    "what is capital of Gujarat?":[
+        "Gandhinagar"
+    ],
+
+    "what is capital of Haryana":[
+        "Chandigarh"
+    ],
+    "what is capital of Haryana?":[
+        "Chandigarh"
+    ],
+
+    "what is capital of Himachal Pradesh":[
+        "Shimla"
+    ],
+    "what is capital of Himachal Pradesh?":[
+        "Shimla"
+    ],
+
+    "what is capital of Jharkhand":[
+        "Ranchi"
+    ],
+    "what is capital of Jharkhand?":[
+        "Ranchi"
+    ],
+
+    "what is capital of Karnataka":[
+        "Bangalore"
+    ],
+    "what is capital of Karnataka?":[
+        "Bangalore"
+    ],
+
+    "what is capital of Kerala":[
+        "Thiruvananthapuram"
+    ],
+    "what is capital of Kerala?":[
+        "Thiruvananthapuram"
+    ],
+
+    "what is capital of Madhya Pradesh":[
+        "Bhopal"
+    ],
+    "what is capital of Madhya Pradesh?":[
+        "Bhopal"
+    ],
+
+    "what is capital of Maharashtra":[
+        "Mumbai"
+    ],
+    "what is capital of Maharashtra?":[
+        "Mumbai"
+    ],
+
+    "what is capital of Manipur":[
+        "Imphal"
+    ],
+    "what is capital of Manipur?":[
+        "Imphal"
+    ],
+
+    "what is capital of Meghalaya":[
+        "Shillong"
+    ],
+    "what is capital of Meghalaya?":[
+        "Shillong"
+    ],
+
+    "what is capital of Mizoram":[
+        "Aizawl"
+    ],
+    "what is capital of Mizoram?":[
+        "Aizawl"
+    ],
+
+    "what is capital of Nagaland":[
+        "Kohima"
+    ],
+    "what is capital of Nagaland?":[
+        "Kohima"
+    ],
+
+    "what is capital of Odisha":[
+        "Bhubaneswar"
+    ],
+    "what is capital of Odisha?":[
+        "Bhubaneswar"
+    ],
+
+    "what is capital of Punjab":[
+        "Chandigarh"
+    ],
+    "what is capital of Punjab?":[
+        "Chandigarh"
+    ],
+
+    "what is capital of Rajasthan":[
+        "Jaipur"
+    ],  
+    "what is capital of Rajasthan?":[
+        "Jaipur"
+    ],  
+
+    "what is capital of Sikkim":[
+        "Gangtok"
+    ],
+    "what is capital of Sikkim?":[
+        "Gangtok"
+    ],
+
+    "what is capital of Tamil Nadu":[
+        "Chennai"
+    ],
+    "what is capital of Tamil Nadu?":[
+        "Chennai"
+    ],
+
+    "what is capital of Telangana":[
+        "Hyderabad"
+    ],
+    "what is capital of Telangana?":[
+        "Hyderabad"
+    ],
+
+    "what is capital of Tripura":[
+        "Agartala"
+    ],
+    "what is capital of Tripura?":[
+        "Agartala"
+    ],
+
+    "what is capital of Uttar Pradesh":[
+        "Lucknow"
+    ],
+    "what is capital of Uttar Pradesh?":[
+        "Lucknow"
+    ],
+
+    "what is capital of Uttarakhand":[
+        "Dehradun"
+    ],
+    "what is capital of Uttarakhand?":[
+        "Dehradun"
+    ],
+
+    "what is capital of West Bengal":[
+        "Kolkata"
+    ],
+    "what is capital of West Bengal?":[
+        "Kolkata"
+    ],
+
+    "what is capital of Andaman and Nicobar Islands":[
+        "Port Blair"
+    ],
+    "what is capital of Andaman and Nicobar Islands?":[
+        "Port Blair"
+    ],
+
+    "what is capital of Chandigarh":[
+        "Chandigarh"
+    ],
+    "what is capital of Chandigarh?":[
+        "Chandigarh"
+    ],
+
+    "what is capital of Dadra and Nagar Haveli and Daman and Diu":[
+        "Daman"
+    ],
+    "what is capital of Dadra and Nagar Haveli and Daman and Diu?":[
+        "Daman"
+    ],
+
+    "what is capital of Jammu and Kashmir":[
+        "Srinagar / Jammu"
+    ],
+    "what is capital of Jammu and Kashmir?":[
+        "Srinagar / Jammu"
+    ],
+
+    "what is capital of Ladakh":[
+        "Leh / Kargil"
+    ],
+    "what is capital of Ladakh?":[
+        "Leh / Kargil"
+    ],
+
+    "what is capital of Lakshadweep":[
+        "Kavaratti"
+    ],
+    "what is capital of Lakshadweep?":[
+        "Kavaratti"
+    ],
+
+    "what is capital of Delhi":[
+        "Delhi"
+    ],
+    "what is capital of Delhi?":[
+        "Delhi"
+    ],
+
+    "what is capital of Puducherry":[
+        "Pondicherry"
+    ],
+    "what is capital of Puducherry?":[
+        "Pondicherry"
+    ],
+
+
+    "what is the capital of Andhra Pradesh":[
+        "Amaravati"
+    ],
+    "what is the capital of Andhra Pradesh?":[
+        "Amaravati"
+    ],
+    
+    "what is the capital of Arunachal Pradesh":[
+        "Itanagar"
+    ],
+    "what is the capital of Arunachal Pradesh?":[
+        "Itanagar"
+    ],
+
+    "what is the capital of Assam":[
+        "Dispur"
+    ],
+    "what is the capital of Assam?":[
+        "Dispur"
+    ],
+
+    "what is the capital of Bihar":[
+        "Patna"
+    ],
+    "what is the capital of Bihar?":[
+        "Patna"
+    ],
+
+    "what is the capital of Chhattisgarh?":[
+        "Raipur"
+    ],
+    "what is the capital of Chhattisgarh":[
+        "Raipur"
+    ],
+
+    "what is the capital of Goa?":[
+        "Panaji"
+    ],
+    "what is the capital of Goa":[
+        "Panaji"
+    ],
+
+    "what is the capital of Gujarat":[
+        "Gandhinagar"
+    ],
+    "what is the capital of Gujarat?":[
+        "Gandhinagar"
+    ],
+
+    "what is the capital of Haryana":[
+        "Chandigarh"
+    ],
+    "what is the capital of Haryana?":[
+        "Chandigarh"
+    ],
+
+    "what is the capital of Himachal Pradesh":[
+        "Shimla"
+    ],
+    "what is the capital of Himachal Pradesh?":[
+        "Shimla"
+    ],
+
+    "what is the capital of Jharkhand":[
+        "Ranchi"
+    ],
+    "what is the capital of Jharkhand?":[
+        "Ranchi"
+    ],
+
+    "what is the capital of Karnataka":[
+        "Bangalore"
+    ],
+    "what is the capital of Karnataka?":[
+        "Bangalore"
+    ],
+
+    "what is the capital of Kerala":[
+        "Thiruvananthapuram"
+    ],
+    "what is the capital of Kerala?":[
+        "Thiruvananthapuram"
+    ],
+
+    "what is the capital of Madhya Pradesh":[
+        "Bhopal"
+    ],
+    "what is the capital of Madhya Pradesh?":[
+        "Bhopal"
+    ],
+
+    "what is the capital of Maharashtra":[
+        "Mumbai"
+    ],
+    "what is the capital of Maharashtra?":[
+        "Mumbai"
+    ],
+
+    "what is the capital of Manipur":[
+        "Imphal"
+    ],
+    "what is the capital of Manipur?":[
+        "Imphal"
+    ],
+
+    "what is the capital of Meghalaya":[
+        "Shillong"
+    ],
+    "what is the capital of Meghalaya?":[
+        "Shillong"
+    ],
+
+    "what is the capital of Mizoram":[
+        "Aizawl"
+    ],
+    "what is the capital of Mizoram?":[
+        "Aizawl"
+    ],
+
+    "what is the capital of Nagaland":[
+        "Kohima"
+    ],
+    "what is the capital of Nagaland?":[
+        "Kohima"
+    ],
+
+    "what is the capital of Odisha":[
+        "Bhubaneswar"
+    ],
+    "what is the capital of Odisha?":[
+        "Bhubaneswar"
+    ],
+
+    "what is the capital of Punjab":[
+        "Chandigarh"
+    ],
+    "what is the capital of Punjab?":[
+        "Chandigarh"
+    ],
+
+    "what is the capital of Rajasthan":[
+        "Jaipur"
+    ],  
+    "what is the capital of Rajasthan?":[
+        "Jaipur"
+    ],  
+
+    "what is the capital of Sikkim":[
+        "Gangtok"
+    ],
+    "what is the capital of Sikkim?":[
+        "Gangtok"
+    ],
+
+    "what is the capital of Tamil Nadu":[
+        "Chennai"
+    ],
+    "what is the capital of Tamil Nadu?":[
+        "Chennai"
+    ],
+
+    "what is the capital of Telangana":[
+        "Hyderabad"
+    ],
+    "what is the capital of Telangana?":[
+        "Hyderabad"
+    ],
+
+    "what is the capital of Tripura":[
+        "Agartala"
+    ],
+    "what is the capital of Tripura?":[
+        "Agartala"
+    ],
+
+    "what is the capital of Uttar Pradesh":[
+        "Lucknow"
+    ],
+    "what is the capital of Uttar Pradesh?":[
+        "Lucknow"
+    ],
+
+    "what is the capital of Uttarakhand":[
+        "Dehradun"
+    ],
+    "what is the capital of Uttarakhand?":[
+        "Dehradun"
+    ],
+
+    "what is the capital of West Bengal":[
+        "Kolkata"
+    ],
+    "what is the capital of West Bengal?":[
+        "Kolkata"
+    ],
+
+    "what is the capital of Andaman and Nicobar Islands":[
+        "Port Blair"
+    ],
+    "what is the capital of Andaman and Nicobar Islands?":[
+        "Port Blair"
+    ],
+
+    "what is the capital of Chandigarh":[
+        "Chandigarh"
+    ],
+    "what is the capital of Chandigarh?":[
+        "Chandigarh"
+    ],
+
+    "what is the capital of Dadra and Nagar Haveli and Daman and Diu":[
+        "Daman"
+    ],
+    "what is the capital of Dadra and Nagar Haveli and Daman and Diu?":[
+        "Daman"
+    ],
+
+    "what is the capital of Jammu and Kashmir":[
+        "Srinagar / Jammu"
+    ],
+    "what is the capital of Jammu and Kashmir?":[
+        "Srinagar / Jammu"
+    ],
+
+    "what is the capital of Ladakh":[
+        "Leh / Kargil"
+    ],
+    "what is the capital of Ladakh?":[
+        "Leh / Kargil"
+    ],
+
+    "what is the capital of Lakshadweep":[
+        "Kavaratti"
+    ],
+    "what is the capital of Lakshadweep?":[
+        "Kavaratti"
+    ],
+
+    "what is the capital of Delhi":[
+        "Delhi"
+    ],
+    "what is the capital of Delhi?":[
+        "Delhi"
+    ],
+
+    "what is the capital of Puducherry":[
+        "Pondicherry"
+    ],
+    "what is the capital of Puducherry?":[
+        "Pondicherry"
+    ],
+
+    "capital of India":[
+        "New Delhi"
+    ],
+    "capital of India?":[
+        "New Delhi"
+    ],
+    "what is capital of India?":[
+        "New Delhi"
+    ],
+    "what is capital of India":[
+        "New Delhi"
+    ],
+    "what is the capital of India":[
+        "New Delhi"
+    ],
+    "what is the capital of India?":[
+        "New Delhi"
+    ]
+}
